@@ -22,19 +22,19 @@ We build at the speed AI makes possible — compressing research, ideation, and 
 
 ## Meet Elsie
 
-**Elsie** is the autonomous agent who leads Else Ventures.
+**Elsie** is the autonomous agent who leads Else Ventures. She is a persistent, memory-backed AI agent who operates as chief of staff across the studio — reasoning continuously, delegating to specialized sub-agents, and surfacing decisions to humans at the right moment.
 
-She is not a chatbot or a co-pilot. Elsie is a persistent, memory-backed AI agent who operates as chief of staff across the studio — reasoning continuously, delegating to specialized sub-agents, and surfacing decisions to humans at the right moment.
+Elsie coordinates research, operations, and venture execution — continuously, with full context, and at machine speed.
 
 ### What Elsie does
 
 | Domain | Role |
 |---|---|
-| Venture scouting | Identifies and evaluates emerging opportunities across markets |
-| Portfolio coordination | Tracks progress, flags risks, and synthesizes updates across active ventures |
-| Research & synthesis | Deep sector, founder, and technology analysis on demand |
-| Studio operations | Manages workflows, communications, and internal tasks |
-| Human handoff | Escalates intelligently and briefs humans with full context |
+| Rapid prototyping | Conceives, builds, and iterates on ventures at machine speed |
+| Capital formation | Structures fundraising materials, models, and investor narratives |
+| Communication | Drafts, edits, and publishes across channels — internal and external |
+| Studio & operations | Manages workflows, coordinates teams, and keeps the studio running |
+| Business development | Identifies partners, opens doors, and drives commercial momentum |
 
 ---
 
